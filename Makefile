@@ -1,2 +1,2 @@
 all:
-		gcc -o ~/Documents/Workspace/C/battery_remainder/bin/abc  battery_remainder.c
+		gcc -o /home/sps/Workspace/Projects/battery_remainder/bin/abc  battery_remainder.c
